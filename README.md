@@ -1,2 +1,7 @@
 # hello-world
-scratch
+
+I am human, therefore nothing which is human is alien to me.
+
+Or something...
+
+
